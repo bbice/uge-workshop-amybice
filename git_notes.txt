@@ -1,0 +1,2 @@
+git_notes.txt
+my new file on a branch from git-notes
