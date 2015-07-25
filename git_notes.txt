@@ -1,0 +1,4 @@
+git_notes.txt
+my new file on a branch from git-notes
+git push -u origin master?
+git remote -v, remote serves as a way of sharing work w/ other developers
