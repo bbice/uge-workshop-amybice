@@ -1,0 +1,164 @@
+pwd
+man less
+history | less
+history | less0
+history 10
+history 5
+history 6
+history
+clear
+cd
+..
+ls
+~
+cd /System/
+cd / Library/
+c
+ls / "I have fun"
+ls/ Pictures/
+ls / Library/
+ls /
+ls/home
+ls / home
+ls / Users/
+ls / Users
+ls ~
+cd "I have fun"
+cd Movies
+cd I\ have\ fun
+cd I\ have \ fun
+cd I\ hav \ fun
+cd I have fun
+cd temp
+ls -l
+q
+man -l
+man -t
+man -r
+man r
+man ls -t
+man cd
+ls -t
+t
+man
+man -lt
+man t
+man lt
+man ls
+ls -rt
+r
+ls -lt
+ls lt
+cd /
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'Amy Bice'
+git config --global user.email 'abice07@gmail.com'
+git config --global user.name 'YOUR FULL NAME'
+git --version
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in
+brew in brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+Terminal > Preferences
+uname
+git config --global user.email "abice07@gmail.com"
+git config --global user.name "Amy"
+subl .
+man subl
+man sudo
+ ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+subl.
+sudo ln -s "Applications/Sublime Text 2.pp/Contents/SharedSupport/bin/subl" /bin/subl
+ln -s "Applications/Sublime Text 2.pp/Contents/SharedSupport/bin/subl" /bin/subl
+subl
+man rm
+man mv
+man cp
+man touch
+man mkdir
+man man
+cd ..
+cd ~/Documents
+cd Documents
+ls -l ~
+cp -r something newplace
+cp awesome.txt something/
+cp awesome.txt thefourthfile.txt
+cp neat.txt awesome.txt
+cp iamcool.txt neat.txt
+touch iamcool.txt
+open .
+open
+ls something/
+mkdir something/
+cp awesome.txt theforthfile.txt
+cp iamcool.txt neat txt
+open.
+pushd
+pushd i/like/icecream
+popd
+pushd icecream
+pushd i/like
+mkdir -p i/like/icecream
+rmdir stuff
+rmdir things
+rmdir frank
+rmdir joe
+rmdir alex
+rmdir john
+cd stuff/things/frank/joe/alex/john
+cd ../../
+cd ../../../
+cd john
+cd alex
+cd joe
+cd frank
+cd things
+cd stuff
+cd ../../../../../../../
+cd temp/stuff/things/frank/joe/alex/john
+cd ../../..
+cd..
+cd john/
+cd alex/
+cd joe/
+cd frank/
+mkdir -p temp/stuff/things/frank/joe/alex/john
+mkdir temp/stuff/things/frank/joe/alex/john
+-p temp/stuff/things/frank/joe/alex/john
+mkdir temp/stuff/things
+mkdir temp/stuff
+mkdir temp
+ld
+rmdir pemp
+rmdir thingd
+mkdir temp/stuff/thingd
+cd stuff/things/frank/joe/alex/john/
+../../../
+python
+midir -p temp/stuff/things/frank/joe/alex/john
+cd /frank
+mkdir "I have fun"
+Path
+mkdir -p pemp/stuff/things/frank/joe/alex/john
+hostname
+pwdpwd
+PS C:\Users\amylbice> pwd
+pthyon
+enter
