@@ -1,4 +1,4 @@
-pwd
+add a note here, I guess???
 man less
 history | less
 history | less0
@@ -10,7 +10,7 @@ clear
 cd
 ..
 ls
-~
+~//
 cd /System/
 cd / Library/
 c
